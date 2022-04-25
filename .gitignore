@@ -1,0 +1,8 @@
+#Visual Studio Cruft
+.vs/
+
+#Temporary Objects
+obj/
+
+#Binary Output
+bin/
